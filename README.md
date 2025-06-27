@@ -16,7 +16,7 @@
 ### 資料庫說明
 - 原始資料：`F1_2025_RaceResults.csv`
 - 清洗後資料：`F1_2025_RaceResults_CLEANED.csv`
-- 程式檔案：`data_cleaning.py`
+- 程式檔案：`F1.py`
 
 ---
 
